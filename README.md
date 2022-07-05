@@ -1,4 +1,6 @@
-![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+![]()<img align="center" src="./images/Background.png" width="100%"  />
+
+
 <h1 align="center"> Hi, My name is Valentina! 👋 :computer: </h1>
 
 ```js
@@ -27,10 +29,10 @@ const Valentina = {
 <h1>Para contactarme: </h1>
 
 <p style="background: white;padding: 10px;">
-    <a href="https://www.linkedin.com/in/valentinacolmenaressuarezdeveloper/">
+    <a href="https://www.linkedin.com/in/valentinacolmenaressuarezdeveloper/"  target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"  />
     </a>
-    <a href="https://github.com/valen63">
+    <a href="https://github.com/valen63"  target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" style="margin-left: 10px;" />
     </a>
 <p/>
@@ -38,24 +40,24 @@ const Valentina = {
 <h1> Pokeapp </h1>
 
 <h3>En este proyecto trabaje por primera vez sintetizando mis conocimientos de Front-End y Back-End. Tambien la pagina esta diseñada para version movil.</h3>
-Deployada en Vercel da click ----><a href="app-pokemon-pi.vercel.app" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
+Deployada en Vercel da click ----><a href="https://app-pokemon-pi.vercel.app" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
 <h4> Desarrollada con: </h4>
 
 <ul>
-  <h5>|--| FrontEnd |--|</h5>
+  <h4>|--| FrontEnd |--|</h4>
     <li>React</li>
     <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
+  <h4>|--| BackEnd |--|</h4>
     <li>NodeJs</li>
     <li>Express</li>
     <li>Sequelize</li>
 </ul>
 
 ![]()
-<img src="./images/Home.png" alt="Home" height="280"/>
-<img src="./images/Lista.png" alt="Lista" height="280"/>
-<img src="./images/Detail.png" alt="Detail" height="280"/>
-<img src="./images/Favorites.png" alt="Favorites" height="280"/>
+<img src="./images/Home.png" alt="Home" height="250"/>
+<img src="./images/Lista.png" alt="Lista" height="250"/>
+<img src="./images/Detail.png" alt="Detail" height="250"/>
+<img src="./images/Favorites.png" alt="Favorites" height="250"/>
 <hr/>
 
 <h1> CodeLearn </h1>
@@ -64,16 +66,16 @@ Deployada en Vercel da click ----><a href="app-pokemon-pi.vercel.app" target="_b
 Nuestro objetivo principal era fomentar la cultura del mundo TI e interesar tanto a niños como adolescente en el desarrollo web. Buscando crear un entorno educativo digital donde nuestros usuarios puedan familiarizarse con la lógica de programación y en el cual los mismos aprendan los fundamentos básicos sobre la creación de sitios web, usando text basando en videos con enfoque en tematicas de programacion. Una combiacion del proyecto indivdual focalizada en un idea tipo E-commerce.
 </h3>
 
-Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs en deploy) da click ----><a href="pf-indol.vercel.app" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
+Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs en deploy) da click ----><a href="https://pf-indol.vercel.app" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
 <h4> Desarrollada con: </h4>
 
 <ul>
-  <h5>|--| FrontEnd |--|</h5>
+  <h4>|--| FrontEnd |--|</h4>
     <li>React</li>
     <li>Redux</li>
     <!-- <li>Conectada con Google</li> -->
-    <li>Stripe(Para los pagos)</li>
-  <h5>|--| BackEnd |--|</h5>
+    <li>Stripe(Para los pagos)</li>250
+  <h4>|--| BackEnd |--|</h4>
     <li>NodeJs</li>
     <li>Nodemailer</li>
     <li>Express</li>
@@ -82,12 +84,12 @@ Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs e
 </ul>
 
 ![]()
-<img src="./images/Inicio.png" alt="Inicio" height="280"/>
-<img src="./images/Rankign.png" alt="Rankign" height="280"/>
-<img src="./images/Detalle.png" alt="Detalle" height="280"/>
-<img src="./images/Cursos.png" alt="Cursos" height="280"/>
-<img src="./images/Card.png" alt="Card" height="280"/>
-<img src="./images/LogIn.png" alt="LogIn" height="280"/>
+<img src="./images/Inicio.png" alt="Inicio" height="250"/>
+<img src="./images/Rankign.png" alt="Rankign" height="250"/>
+<img src="./images/Detalle.png" alt="Detalle" height="250"/>
+<img src="./images/Cursos.png" alt="Cursos" height="250"/>
+<img src="./images/Card.png" alt="Card" height="250"/>
+<img src="./images/LogIn.png" alt="LogIn" height="250"/>
 
 
 <hr/>
