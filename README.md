@@ -60,7 +60,7 @@ Deployada en Vercel da click ----><a href="https://app-pokemon-pi.vercel.app" ta
 <img src="./images/Favorites.png" alt="Favorites" height="250"/>
 <hr/>
 
-<h1> CodeLearn </h1>
+<h1> CodeLearn- (In Progress For Perfections) </h1>
 
 <h3>En este proyecto trabaje fortaleciendo todos los conocimientos previos y sumando nuevas bases de datos y mejorando mis habilidades sociales con el trabajo en equipo formado por: <a href="https://github.com/Agus1510" target="_blank" rel="noopener noreferrer">Agustin Panizza</a>, <a href="https://github.com/cfremoto" target="_blank" rel="noopener noreferrer">Cesar Fernandez</a>, <a href="https://github.com/ChampiMagic" target="_blank" rel="noopener noreferrer">Homero Gazze</a>,<a href="https://github.com/KraosFex" target="_blank" rel="noopener noreferrer">Johan Ferreira</a>.
 Nuestro objetivo principal era fomentar la cultura del mundo TI e interesar tanto a niños como adolescente en el desarrollo web. Buscando crear un entorno educativo digital donde nuestros usuarios puedan familiarizarse con la lógica de programación y en el cual los mismos aprendan los fundamentos básicos sobre la creación de sitios web, usando text basando en videos con enfoque en tematicas de programacion. Una combiacion del proyecto indivdual focalizada en un idea tipo E-commerce.
